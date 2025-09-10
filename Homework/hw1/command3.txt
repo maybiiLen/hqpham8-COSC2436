@@ -1,0 +1,4 @@
+AddNums(7)
+AddNums(4)
+IsSorted
+Replace(10, 100)

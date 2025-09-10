@@ -1,0 +1,5 @@
+IsSorted
+Replace(15, 17)
+IsSorted
+Print
+FindNum(11)

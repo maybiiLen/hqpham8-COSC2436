@@ -1,0 +1,5 @@
+Replace(2, 4)
+Print
+FindNum(3)
+AddNums(3)
+IsSorted
