@@ -1,0 +1,2 @@
+[title: Bohemian Rhapsody; artist: Queen; genre: Rock; duration: 355]
+[title: Shape of You; artist: Ed Sheeran; genre: Pop; duration: 233]

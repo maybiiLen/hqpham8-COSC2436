@@ -1,0 +1,3 @@
+[title: Yesterday; artist: The Beatles; genre: Rock; duration: 125]
+[title: Hey Jude; artist: The Beatles; genre: Rock; duration: 431]
+[title: Billie Jean; artist: Michael Jackson; genre: Pop; duration: 294]

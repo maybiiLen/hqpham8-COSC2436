@@ -1,0 +1,2 @@
+[title: Bohemian Rhapsody; artist: Queen; genre: Rock; duration: 355]
+[title: Levitating; artist: Dua Lipa; genre: Pop; duration: 203]

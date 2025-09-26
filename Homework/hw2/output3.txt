@@ -1,0 +1,2 @@
+[title: Hotel California; artist: Eagles; genre: Rock; duration: 391]
+[title: Africa; artist: Toto; genre: Pop; duration: 295]

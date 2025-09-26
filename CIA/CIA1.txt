@@ -1,0 +1,121 @@
+
+Quiz Answers
+
+1. What is the time complexity of accessing the i-th element in an array?
+*a) o(1)
+b) o (log n)
+c) o(n)
+d) o (n log n)
+
+2. Which operation is o(1) for a singly linked list (with a head pointer)?
+a) insert at end
+b) delete last element
+*c) insert at head
+d) search element
+
+3. What does this C++ snippet print?
+int arr[] = {2, 4, 6};
+cout << arr[1] + arr[2];
+a) 6
+b) 8
+*c) 10
+d) 12
+
+4. What will this function return for f(3)?
+int f(int n) {
+    if (n == 0) return 1;
+    return n * f(n-1);
+}
+a) 1
+b) 3
+*c) 6
+d) undefined
+
+5. In recursion, the "stack overflow" error occurs when:
+*a) no base case or too deep recursion
+b) array index out of bounds
+c) improper pointer dereference
+d) memory leak
+
+6. In C++, arrays automatically resize when new elements are added.
+a) true
+*b) false
+
+7. Traversing a singly linked list requires sequential access from the head.
+*a) true
+b) false
+
+8. Tail recursion can be optimized by compilers into iteration.
+*a) true
+b) false
+
+9. Inserting an element in the middle of an array is o(1).
+a) true
+*b) false
+
+10. A doubly linked list allows traversal in both directions.
+*a) true
+b) false
+
+Word Answers
+11. What is the term for the memory location index in an array?
+*index
+
+12. What pointer in a linked list node points to the next node?
+*next
+
+13. What must every recursive function include to prevent infinite calls?
+*base case
+
+14. What is the time complexity of searching an unsorted array linearly?
+*o(n)
+
+15. What is the first element in a linked list commonly called?
+*head
+
+Fill-in/Short Answers
+16. Fill in the blank to compute the sum of array arr of size n:
+int sum = 0;
+for (int i = 0; i < n; i++) {
+    sum += ______;
+}
+*arr[i]
+
+17. Complete the line to create a new node in C++:
+Node* node = new Node();
+node->data = 5;
+node->____ = nullptr;
+*next
+
+18. State one advantage of recursion over iteration:
+*simplifies code
+*easier to read
+*less code to type
+
+19. Fill in to move pointer p to the next node:
+p = p->____;
+*next
+
+20. Fill in the blank to compute Fibonacci correctly:
+int fib(int n) {
+    if (n <= 1) return n;
+    return fib(n-1) + fib(____);
+}
+*n-2
+
+21. Rate Quiz
+[*] 1
+[*] 2
+[*] 3
+[*] 4
+[*] 5
+[*] 6
+[*] 7
+[*] 8
+[*] 9
+[*] 10
+
+CIA Assignment
+Group 12
+CS 2436
+9/25/2025

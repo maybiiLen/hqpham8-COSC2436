@@ -1,0 +1,3 @@
+Add([title: Levitating; artist: Dua Lipa; genre: Pop; duration: 203])
+Remove(artist: Ed Sheeran)
+Print()
