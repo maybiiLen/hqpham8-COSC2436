@@ -1,0 +1,5 @@
+Current Page: https://d.com
+Back Stack:
+https://a.com
+Forward Stack:
+[empty]

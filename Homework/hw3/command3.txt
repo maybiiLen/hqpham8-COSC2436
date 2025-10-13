@@ -1,0 +1,5 @@
+DOWNLOAD(file1.zip)
+DOWNLOAD(file2.docx)
+DOWNLOAD(image.png)
+PROCESS_DOWNLOAD
+PRINT(downloads)

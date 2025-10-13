@@ -1,0 +1,8 @@
+VISIT(https://b.com)
+VISIT(https://c.com)
+BACK
+BACK
+VISIT(https://d.com)
+PRINT(current)
+PRINT(back)
+PRINT(forward)
